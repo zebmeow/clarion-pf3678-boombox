@@ -56,3 +56,10 @@ partition layout and the checksum of the dump this mod was developed against.
 
 Keep the original dump, and ideally the original SD card, untouched. Flashing the
 original dump back returns the unit to stock.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). That covers the code in this repository. Bundled
+third-party files keep their own licences: `wfplay/third_party/` (minimp3) and
+`apps/wefunk/Silkscreen.ttf` (the Silkscreen font). Clarion's firmware is not
+included and is not covered.
