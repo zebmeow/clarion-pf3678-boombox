@@ -7,7 +7,12 @@ The unit runs Linux 2.6.37 from an SD card, with a Qt 4 QML user interface. Ever
 here works by editing a copy of the card's image on a computer and flashing it back.
 Nothing on the unit is changed in a way that cannot be undone.
 
-![UI previews](preview/shots/00-overview.png)
+<p>
+  <img src="preview/shots/01-now-playing.png" alt="Now playing screen" width="400">
+  <img src="preview/shots/06-eq-boombox.png" alt="Equalizer screen" width="400">
+</p>
+
+All 21 screens: [preview/shots/00-overview.png](preview/shots/00-overview.png)
 
 ## What is in the mod
 
