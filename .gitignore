@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+.venv/
+build/
+stock/
+firmware/*.img
+firmware/*.bin
+*.img
+eq/out/
+wfplay/out/
+preview/.build/
+preview/.eqstate/
+preview/.wfstate/
+preview/.ui_images.rcc

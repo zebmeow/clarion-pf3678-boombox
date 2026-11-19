@@ -1,0 +1,51 @@
+{
+  "myCBTAudioControl": {
+    "trackTitle": "Midnight City",
+    "artistTitle": "M83",
+    "albumTitle": "Hurry Up, We're Dreaming",
+    "strPlayTime": "2:41",
+    "streamState": 0,
+    "btState": 0,
+    "appState": "@CBTAudioControl.STATE_COMPLETE",
+    "btVersion": "@CBTAudioControl.AVRCP_VERSION_14"
+  },
+  "mySoundUtility": {
+    "firstBandGain": 4,
+    "secondBandGain": 3,
+    "thirdBandGain": -1,
+    "fourthBandGain": -1,
+    "fifthBandGain": 1,
+    "sixthBandGain": 2,
+    "volumeValue": 24,
+    "volumeText": "24",
+    "mute": false
+  },
+  "myCBTPhoneControl": {
+    "connectionDeviceName": "Pixel 8",
+    "connectionDeviceSlotID": 0
+  },
+  "models": {
+    "myDeviceListModel": [
+      {
+        "slotStatus": true,
+        "deviceName": "Pixel 8"
+      },
+      {
+        "slotStatus": true,
+        "deviceName": "Work iPhone"
+      },
+      {
+        "slotStatus": true,
+        "deviceName": "Galaxy Tab"
+      },
+      {
+        "slotStatus": false,
+        "deviceName": ""
+      },
+      {
+        "slotStatus": false,
+        "deviceName": ""
+      }
+    ]
+  }
+}

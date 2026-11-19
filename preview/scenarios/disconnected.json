@@ -1,0 +1,6 @@
+{
+  "myCBTAudioControl": {
+    "btState": "@CBTAudioControl.BTA_STATE_UNREGISTER",
+    "streamState": "@CBTAudioControl.STREAM_STATE_DISCONNECT"
+  }
+}

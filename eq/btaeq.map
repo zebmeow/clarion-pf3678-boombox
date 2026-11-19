@@ -1,0 +1,15 @@
+/* Export the hooks with the same symbol versions PhoneBTA was linked against. */
+ALSA_0.9 {
+	global:
+		snd_pcm_hw_params_set_format;
+		snd_pcm_hw_params_set_channels;
+		snd_pcm_writei;
+		snd_pcm_close;
+	local:
+		*;
+};
+
+ALSA_0.9.0rc4 {
+	global:
+		snd_pcm_hw_params_set_rate_near;
+} ALSA_0.9;
